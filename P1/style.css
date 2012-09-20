@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper {margin: 0 auto;}
+#content {width: 100% }
+#top {width:90%;}
+#bottom {width:90%;}
+#left {float:left;
+		min-width:300px;}
+#right {float:left;
+		min-width:300px;}
