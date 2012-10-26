@@ -29,6 +29,8 @@ class users_controller extends base_controller {
 		}
 		else {
 			echo "This is the profile for ".$user_name;
+			
+			
 		}
 	}
 		
